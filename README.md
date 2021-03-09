@@ -37,7 +37,7 @@ The following tools and languages are used to complete this **PHP Ajax TRANSACTI
 
 ## Who is the Author?
 
-Ifeoluwa-Adewunmi John
+Ifeoluwa Adewunmi
 
 
 ## How to Contact the Author?
